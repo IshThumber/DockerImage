@@ -1,7 +1,7 @@
 # DockerImage
 
 
-commands to build and run Docker Image file
+## commands to build and run Docker Image file
 docker build -t spark-image-task .
 
 docker images
